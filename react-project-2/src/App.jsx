@@ -2,8 +2,10 @@ import Card from "./Card.jsx";
 
 
 function App() {
-  return (
-    <Card />
+  return (<>
+   <div><Card /></div> 
+   <div><Card /></div> 
+    </>
   )
 }
 
